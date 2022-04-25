@@ -1,0 +1,55 @@
+
+    body{
+        background-image: url(family.jpg);
+        background-color: rgb(136, 136, 136);
+        font: normal 14pt Arial;
+
+    }
+
+    header{
+
+        color: black;
+        text-align: center;
+
+
+    }
+
+    section{
+
+        background: #ffffff;
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 5px 5px 10px;
+        height: auto
+
+    }
+    footer{
+        margin-top: 10px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-style: italic;
+
+    }
+
+    #imgteste{
+
+        width: 200px;
+        height: 200px;
+        box-shadow: 5px 5px 10px;
+        border-radius: 1000px;
+        margin-top: 10px;
+
+    }
+
+    #central{
+        text-align: center;
+    }
+
+    header{
+        color: #ffffff;
+    }
+
+
+
